@@ -1,0 +1,4 @@
+jaseci
+jaseci-serv
+streamlit
+jac_nlp[cl_summer]

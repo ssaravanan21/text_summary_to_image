@@ -1,0 +1,9 @@
+*.jir
+
+test.ipynb
+
+mydatabase
+
+__pycache__
+
+.jaseci_logs
